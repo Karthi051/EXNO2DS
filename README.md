@@ -32,6 +32,7 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 ![image](https://github.com/Karthi051/EXNO2DS/assets/148327224/47f71b94-bbed-4de6-b861-cb1af4d69b39)
 
 ![image](https://github.com/Karthi051/EXNO2DS/assets/148327224/3393ea87-e1df-449c-8441-01912cd71d16)
+
 ![image](https://github.com/Karthi051/EXNO2DS/assets/148327224/b2d7c235-3e2a-4eb7-81a9-a2f6905b6860)
 ![image](https://github.com/Karthi051/EXNO2DS/assets/148327224/776bd4ff-efb1-4a93-9990-7e9c4275c4c3)
 ![image](https://github.com/Karthi051/EXNO2DS/assets/148327224/f24133ce-9780-44e6-948c-84811d0cad1d)
